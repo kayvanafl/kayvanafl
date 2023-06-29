@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kayvanafl
+- 👀 I’m interested in learning code to bring my ideas to life and improve the wellbeing of people around the world.
+- 🌱 I’m currently learning UX/UI design. Eventually, I want to learn C.
+- 📫 You can reach me through Github with your inquiries or comments.
